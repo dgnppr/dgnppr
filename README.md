@@ -10,6 +10,5 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<img height="210em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=dragonappear&layout=compact">
 
 <img src ="./profile-3d-contrib/profile-night-green.svg" height = 350 width = 500>
