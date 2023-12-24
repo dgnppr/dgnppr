@@ -11,6 +11,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
-<img src ="./profile-3d-contrib/profile-night-green.svg" width = 600>
+<img src ="./profile-3d-contrib/profile-night-green.svg" width = 650>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dragonappear)
