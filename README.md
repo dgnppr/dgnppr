@@ -11,4 +11,4 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
-<img src ="./profile-3d-contrib/profile-night-green.svg" height = 350 width = 500>
+<img src ="./profile-3d-contrib/profile-night-green.svg" height = 332.03125 width = 500>
