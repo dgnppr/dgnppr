@@ -3,6 +3,8 @@ name: GitHub Profile
 on:
   push:
       branches: [ main ]
+      paths-ignore:
+        - 'README.md'
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
